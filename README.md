@@ -1,2 +1,4 @@
-# 100-days-of-cloud-Azure
-This repository documents the successful completion of the intensive KodeKloud 100 Days of Cloud (Azure) Challenge. This initiative was undertaken to solidify my expertise in core Azure services and achieve mastery in automated cloud infrastructure management. 
+<div align="center">
+  <img src="https://engineer.kodekloud.com/courser/100days_cloud.svg" alt="" width="250" />
+  <h1>100 Days of Cloud (Azure)</h1>
+</div>
