@@ -33,7 +33,7 @@ Create a public VNet named `devops-pub-vnet`, and a subnet named `devops-pub-sub
 ## Create a VM named `devops-pub-vm` under this VNet.
 
 - In the portal, search for and select `Virtual machines`.
-- In Virtual machines, `select + Create`, and then select `Azure virtual machine`.
+- In Virtual machines, select `+ Create`, and then select `Azure virtual machine`.
 - On the `Basics` tab of `Create a virtual machine`, enter or select the following information:
 
   <img width="1254" height="409" alt="image" src="https://github.com/user-attachments/assets/bab5fa40-8aa1-4b5e-8ee5-2c69cea2d4fd" />
