@@ -1,6 +1,6 @@
 # Day 4: Create a Virtual Network (VNet) in Azure
 
-Create a Virtual Network (VNet) named  `nautilus-vnet` in the `East US` region with any IPv4 CIDR block.
+Create a Virtual Network (VNet) named  `devops-vnet` in the `Central US` region with any IPv4 CIDR block.
 
 Step 1: Go to Virtual Network Dashboard, Enter VM name and choose region.
 
