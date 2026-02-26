@@ -1,10 +1,10 @@
 # Day 8: Attach Managed Disk to Azure Virtual Machine
+https://engineer.kodekloud.com/task?id=691b0c7b4aa4b86f475f82bf&status=start
+An existing VM named `nautilus-vm` and a managed disk named `devops-disk` already exist in the `East US` region.
 
-An existing VM named `nautilus-vm` and a managed disk named `nautilus-disk` already exist in the `East US` region.
+Attach the disk `nautilus-disk` to the VM `devops-vm` as a data disk.
 
-Attach the disk `nautilus-disk` to the VM `nautilus-vm` as a data disk.
-
-Ensure the disk is attached to the VM `nautilus-vm`.
+Ensure the disk is attached to the VM `devops-vm`.
 
 Make sure that the virtual machine initialization has been completed before submitting this task.
 
@@ -24,4 +24,4 @@ Azure Docs to be followed: [Attach an existing disk](https://learn.microsoft.com
 
 - Under `Data disk`, choose `Attach existing disk` and select the existing disk.
 
-  <img width="1060" height="211" alt="image" src="https://github.com/user-attachments/assets/bdc98ba0-6b78-4bb5-a64d-27306923f608" />
+  <img width="1628" height="208" alt="image" src="https://github.com/user-attachments/assets/2ae9b924-ed06-4d4b-ac2c-0ca0ee3d6c6d" />
