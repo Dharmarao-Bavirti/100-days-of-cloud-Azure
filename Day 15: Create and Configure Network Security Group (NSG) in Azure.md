@@ -23,18 +23,26 @@
 
 8. Click on the newly created resource and in it's navigation pane, select `Settings, inbound rule`
 
-   <img width="245" height="514" alt="image" src="https://github.com/user-attachments/assets/bfab3cc4-1733-41e9-ad96-4686067e1c32" />
+   
+   <img width="293" height="744" alt="image" src="https://github.com/user-attachments/assets/470d0fe4-6b2f-4f5e-8115-0ff823de52fa" />
+
 
 9. In `inbound rules`, Click on `+ Add` and add `HTTP` for port `80` and name it `Allow-HTTP` and click `Save`.
 
-    <img width="1348" height="593" alt="image" src="https://github.com/user-attachments/assets/00cebe03-3819-4cce-b019-d71b4ac2d9a5" />
+    
+    <img width="573" height="884" alt="image" src="https://github.com/user-attachments/assets/9e7083be-b557-43aa-b3fa-59aa2ed840f2" />
+
 
 10. In `inbound rules`, Click on `+ Add` and add `SSH` for port `22` and name it `Allow-SSH` and click `Save`.
 
-    <img width="585" height="569" alt="image" src="https://github.com/user-attachments/assets/9dbb3d48-363d-4f5e-8c9d-c7f283f0c4c6" />
+    
+    <img width="579" height="890" alt="image" src="https://github.com/user-attachments/assets/0b19a473-6108-4651-aa54-4f8e20a278b4" />
+
 
 10. Preview added inbound rules.
 
-    <img width="1101" height="360" alt="image" src="https://github.com/user-attachments/assets/338a5837-6bb2-4299-b25d-d04513d7bf15" />
+    
+    <img width="1915" height="541" alt="image" src="https://github.com/user-attachments/assets/e0356855-fb80-4fc3-a4e3-0dfe6116e2c5" />
+
 
 
