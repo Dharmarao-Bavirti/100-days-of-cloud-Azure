@@ -22,3 +22,10 @@ vi /root/arm-templates/vnet-deployment-template.json
 deploy the group using updated template
 
 az deployment group create --resource-group kml_rg_main-868086acffbb444c --template-file /root/arm-templates/vnet-deployment-template.json
+
+verify the newly created vnet using below command
+```
+az network vnet list --resource-group kml_rg_main-d14f6529a9a449f6
+```
+
+<img width="1023" height="530" alt="image" src="https://github.com/user-attachments/assets/4850baa2-6034-4949-a098-910d0f96e1cd" />
