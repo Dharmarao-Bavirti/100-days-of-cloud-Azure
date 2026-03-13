@@ -2,7 +2,7 @@
 
 As a member of the Nautilus DevOps Team, your task is to create a VM using Azure CLI with the following specifications:
 
-**Instance Name**: The VM must be named `xfusion-vm`.
+**Instance Name**: The VM must be named `nautilus-vm`.
 
 **Image**: Use any available `Ubuntu` image to create this VM.
 
@@ -46,8 +46,8 @@ runcmd:
 
 ```bash
 az vm create \
-  --resource-group kml_rg_main-06c66b102d8744e8 \
-  --name xfusion-vm \
+  --resource-group kml_rg_main-ebd26c52e08f4622 \
+  --name nautilus-vm \
   --image Ubuntu2204 \
   --admin-username azureuser \
   --generate-ssh-keys \
@@ -63,8 +63,8 @@ az vm create \
 
 ```bash
 az vm open-port \
-  --resource-group kml_rg_main-06c66b102d8744e8 \
-  --name xfusion-vm \
+  --resource-group kml_rg_main-ebd26c52e08f4622 \
+  --name nautilus-vm \
   --port 80 \
   --priority 800
 ```
