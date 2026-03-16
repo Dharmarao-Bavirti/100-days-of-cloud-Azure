@@ -40,7 +40,7 @@ The Nautilus DevOps team needs to set up a new Virtual Machine (VM) on the Azure
 2. Enable secure, password-less SSH access from the `azure-client` host.
 
    ```bash
-   ssh azureuser@<nautilus-vm-public-key>
+   ssh azureuser@<nautilus-vm-public-ip>
    ```
    
 
